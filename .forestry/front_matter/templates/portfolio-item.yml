@@ -1,0 +1,16 @@
+---
+label: Portfolio Item
+hide_body: true
+fields:
+- type: file
+  name: image_path
+  label: image_path
+- type: text
+  name: category
+  label: category
+- type: text
+  name: project_name
+  label: project_name
+- type: text
+  name: link
+  label: link
